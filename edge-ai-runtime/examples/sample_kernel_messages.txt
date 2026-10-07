@@ -1,0 +1,3 @@
+[demo] graphics job completed
+[demo] GPU fault recorded for test input
+[demo] page fault message recorded for the same test window

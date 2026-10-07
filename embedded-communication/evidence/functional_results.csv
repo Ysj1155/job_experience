@@ -1,0 +1,5 @@
+test_case,validation_question,observed_result,functional_result,physical_scope
+TC-H01,Does heartbeat loss trigger the configured safe transition?,AUTO to SAFE after timeout,PASS,Application observation only
+TC-H02,Does link recovery follow the selected recovery policy?,SAFE held until manual reset,PASS,Application observation only
+TC-D01,Does the first driver event create one transition?,AUTO to DRIVER once,PASS,Application observation only
+TC-D02,Does a repeated event create another transition?,DRIVER state held and duplicate recorded,PASS,Physical bus path not observed

@@ -1,0 +1,4 @@
+trial,heartbeat_period_ms,configured_timeout_ms,observed_timeout_ms,state_path,result
+1,500,2000,2000.136,INIT-AUTO-SAFE-SAFE-AUTO,PASS
+2,500,2000,2044.158,INIT-AUTO-SAFE-SAFE-AUTO,PASS
+3,500,2000,2043.406,INIT-AUTO-SAFE-SAFE-AUTO,PASS

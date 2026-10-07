@@ -1,0 +1,6 @@
+test,region,sample_count,mean_c,min_c,max_c,dominant_value_c,dominant_count,interpretation
+idle,CNN,12,46.709,46.595,46.937,,,varied normally during the observation
+idle,GPU,12,45.978,45.854,46.082,,,varied normally during the observation
+idle,Vision,12,45.332,45.227,45.455,,,varied normally during the observation
+idle,CPU,12,44.668,44.601,44.829,,,varied normally during the observation
+pipeline,all_regions,100,,,,31.609,93,repeated value requires sensor-path validation

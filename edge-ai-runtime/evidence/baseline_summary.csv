@@ -1,0 +1,2 @@
+test,duration_s,workload,completed_frames,inference_fps,execute_mean_ms,execute_p99_ms,cpu_mean_percent,rss_max_mib,sequence_gap_count,page_fault_messages,gpu_fault_messages,exit_status
+baseline,120,object_detection,3577,30.0001,3.074,3.306,22.49,78.77,16,12,30,0

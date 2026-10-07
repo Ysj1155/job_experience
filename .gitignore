@@ -1,0 +1,71 @@
+# Editor and operating-system files
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.*
+secrets.*
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Raw evidence and machine-specific metadata
+**/raw/
+**/metadata/
+**/logs/
+*.log
+*.core
+core.*
+
+# Vendor SDK artifacts and compiled binaries
+vendor/
+third_party/
+private/
+originals/
+*.bin
+*.elf
+*.so
+*.a
+*.o
+*.out
+*.patch
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Editable presentation and office working files
+*.ppt
+*.pptx
+*.doc
+*.docx
+
+# Vendor-provided files that must not enter this repository
+*[Ii][Pp][Cc]*[Ee]xample*
+*[Ii][Pp][Cc]*[Ll]ibrary*
+*[Ss]pecification*
+*[Vv]endor*[Mm]anual*
+
+# Local build output
+build/
+dist/
+tmp/
+temp/
+*.tmp
+*.bak

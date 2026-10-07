@@ -1,0 +1,7 @@
+condition,duration_s,inference_completed,page_fault_messages,gpu_fault_messages,exit_status
+texture_only,60,1777,0,0,0
+texture_and_box,60,1775,0,0,0
+texture_and_text,60,1771,2,6,0
+text_vbo_candidate_run_1,120,3577,0,0,0
+text_vbo_candidate_run_2,120,3576,0,8,0
+text_and_box_vbo_candidate,120,3577,3,9,0

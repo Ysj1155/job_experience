@@ -1,0 +1,7 @@
+timestamp_s,region,temperature_c,status
+0,accelerator,45.10,ok
+5,accelerator,45.20,ok
+10,accelerator,45.20,ok
+0,cpu,43.80,ok
+5,cpu,43.90,ok
+10,cpu,44.00,ok

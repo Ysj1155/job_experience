@@ -1,0 +1,6 @@
+{"event":"input","timestamp_us":0,"frame_id":0,"stream":"camera0","sequence":100}
+{"event":"inference_end","timestamp_us":3000,"frame_id":0,"stream":"camera0","latency_us":3000}
+{"event":"input","timestamp_us":33333,"frame_id":1,"stream":"camera0","sequence":101}
+{"event":"inference_end","timestamp_us":36433,"frame_id":1,"stream":"camera0","latency_us":3100}
+{"event":"input","timestamp_us":66666,"frame_id":2,"stream":"camera0","sequence":103}
+{"event":"inference_end","timestamp_us":69716,"frame_id":2,"stream":"camera0","latency_us":3050}
